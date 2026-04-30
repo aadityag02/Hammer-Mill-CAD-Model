@@ -1,4 +1,4 @@
-#Overview:-
+**Overview:-**
   This project involves the modelling of a hammer mill, a commonly used machine for
   crushing, grinding, and size reduction of various materials. Typical applications include grain
   processing, biomass crushing, and material preparation for industrial processes.
@@ -14,7 +14,7 @@
   inlet guidance, impact-based crushing, airflow-assisted discharge, and particulate separation
   using a cyclone.
 
-#Part Modelling:-
+**Part Modelling:-**
   Each component was modelled individually in SOLIDWORKS using standard CAD tools such
   as extrude, revolve, sweep, shell, cut-extrude, and fillet features.
   The main parts created include:
@@ -28,7 +28,7 @@
   Material appearance was assigned for visual clarity (steel, sheet metal, and plastic
   components), though exact mechanical material definitions were not required for this stage.
 
-#Assembly Modelling:-
+**Assembly Modelling:-**
   After creating all individual parts, the complete hammer mill system was assembled using
   coincident, concentric, distance, and parallel mates wherever needed.
   Key relationships included:
