@@ -1,7 +1,7 @@
 **Overview:-**
   This project involves the modelling of a hammer mill, a commonly used machine for
   crushing, grinding, and size reduction of various materials. Typical applications include grain
-  processing, biomass crushing, and material preparation for industrial processes.
+  processing, biomass crushing, and material preparation for industrial processes.\
   The complete assembly contains the major functional units found in real hammer mills:
   • Feeding Hopper – allows controlled input of raw material.
   • Hammering/Crushing Chamber – the central region where material is broken down.
